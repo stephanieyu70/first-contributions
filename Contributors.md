@@ -8,6 +8,7 @@
 - [priya]
 - [Sakshi Sinha](https://github.com/RealRadOne)
 - [sevonefive]
+-[John Smith] (https://github.com/stephanieyu70)
 - [Abhishek Jain] (https://github.com/maniac-tech)
 - [Dhruv Vaghela] (https://github.com/Dhruvv4)
 - [Rithik](https://github.com/rithikmali)
